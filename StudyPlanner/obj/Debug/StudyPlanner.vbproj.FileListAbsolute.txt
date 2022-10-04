@@ -1,0 +1,120 @@
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\Downloads\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.ForgotEmail.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.ForgotEmail.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\bezin_1\Downloads\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.ForgotEmail.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe.config
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\bin\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbprojAssemblyReference.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.FrmCreateAcc.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.ForgotEmail.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Login.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.MonthFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.NewActivity.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.WeekFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Resources.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.GenerateResource.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.vbproj.CoreCompileInputs.cache
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.exe
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.xml
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.pdb
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.ActivityFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.HomeFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.Navbar.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\StudyPlanner\obj\Debug\StudyPlanner.PlusFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.ActivityFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.ForgotEmail.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.HomeFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.Navbar.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.NewTask.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.PlusFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.ActivityFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.FrmViewActivity.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.HomeFrm.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.Navbar.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.NewTask.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.PlusFrm.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.FrmViewActivity.resources
+C:\Users\14ezinwokeb\OneDrive - Macmillan Academy\computer science project\StudyPlanner\obj\Debug\StudyPlanner.Category.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.Category.resources
+C:\Users\bezin_1\OneDrive\Documents\Computer Science Project\StudyPlanner\obj\Debug\StudyPlanner.ForgotPassword.resources
